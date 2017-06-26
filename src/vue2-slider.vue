@@ -78,7 +78,7 @@ export default {
 		}
 	},
 	props: {
-		id: {
+		name: {
 			type: String,
 			default: null
 		},
