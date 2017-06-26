@@ -1,6 +1,6 @@
 {
   "name": "vue-slider-component-dscis",
-  "version": "2.3.1",
+  "version": "2.3.2",
   "description": "Can use the Slider component in vue1.x and vue2.x",
   "keywords": [
     "vue",
@@ -12,7 +12,7 @@
   "main": "./dist/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NightCatSama/vue-slider-component.git"
+    "url": "git+https://github.com/dscis/vue-slider-component-dscis.git"
   },
   "author": "NightCatSama <642163903@qq.com>",
   "licenses": "MIT",
